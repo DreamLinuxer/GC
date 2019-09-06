@@ -1,0 +1,7 @@
+flags: {}
+packages:
+- .
+extra-deps:
+- monadplus-1.3
+- socket-0.8.2.0
+resolver: lts-12.24
